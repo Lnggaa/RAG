@@ -1,0 +1,21 @@
+# Virtual environment (JANGAN DIUPLOAD!)
+venv/
+env/
+
+# ChromaDB database (JANGAN DIUPLOAD!)
+chroma_db/
+chromatika_db/
+
+# File cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# File konfigurasi rahasia
+.env
+.vscode/
+
+# File besar lain
+*.dll
+*.pyd
+*.so
