@@ -15,4 +15,4 @@
 venv\Scripts\activate
 
 # Jalankan program
-python akademikai_claude.py
+python akademikai.py
